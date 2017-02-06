@@ -1,0 +1,24 @@
+{
+  "name": "writer",
+  "version": "1.0.0",
+  "description": "this is writer from denodo to on premise",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Testing\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmd-rony/writer.git"
+  },
+  "keywords": [
+    "writer",
+    "on",
+    "premise"
+  ],
+  "author": "rony setyawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmd-rony/writer/issues"
+  },
+  "homepage": "https://github.com/bmd-rony/writer#readme"
+}
