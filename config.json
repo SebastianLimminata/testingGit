@@ -1,0 +1,18 @@
+{
+"PORT": 9000,
+"MSSQL_CONNECTION_STRING": "mssql://dev:Bhinneka_Admin@bmd-mobileapp.database.windows.net:1433/DOS2_HO?encrypt=true",
+"MSSQL_GSSWD01_CONNECTION_STRING": "mssql://swdteam:dos2@10.0.0.77:1433/DOS2_HO?encrypt=false",
+"MONGO_CART_DATABASE_CONNECTION_STRING": "mongodb://mobileapp-cart:6D4H4a2JUDHLmvwbt4qszu5eqpTmOXMycjdYRsfPBc9juQGVAkcRtNBAOTZt04RQwNvJ7G7gU0FQrtm6UQCAMQ==@mobileapp-cart.documents.azure.com:10250/?ssl=true",
+"MONGO_CART_COLLECTION_NAME": "cart_collection",
+"MONGO_CART_EVENT_COLLECTION_NAME": "cart_event_collection",
+"DENODO_ADMIN": "admin",
+"DENODO_PASSWORD": "@bhinnekaadminbmd",
+"DENODO_BASE_URL": "http://52.187.33.144:9090/denodo-restfulws/bhinneka/views",
+"APPINSIGHTS_INSTRUMENTATIONKEY":"123",
+"AZURE_EVENT_HUBS_CONNECTION_STRING": "Endpoint=sb://bhmobevent.servicebus.windows.net/;SharedAccessKeyName=Publisher;SharedAccessKey=DeVv2sca+Z6/3QfymBXml04vTA8h10KPKYYGE5d4e1o=",
+"AZURE_EVENT_HUBS_PROFILE_UPDATE_PATH": "profileupdate",
+"AWS_ACCESS_KEY_ID": "AKIAIVTHU2QAJ5JGQI5Q",
+"AWS_SECRET_KEY": "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",
+"AWS_REGION": "ap-southeast-1",
+"AWS_TOPIC_ARN": "arn:aws:sns:ap-southeast-1:864038710441:mobileapp-cart"
+}

@@ -4,6 +4,7 @@
   "description": "this is writer from denodo to on premise",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "console.log(\"Testing\")"
   },
   "repository": {
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/bmd-rony/writer/issues"
   },
-  "homepage": "https://github.com/bmd-rony/writer#readme"
+  "homepage": "https://github.com/bmd-rony/writer#readme",
+  "dependencies": {
+    "mssql": "3.3.0",
+    "nconf": "0.8.4",
+    "request": "2.79.0",
+    "restify": "4.3.0",
+    "restify-error": "1.0.0",
+    "restify-errors": "4.3.0",
+    "serve-static-restify": "1.0.0"
+  }
 }
